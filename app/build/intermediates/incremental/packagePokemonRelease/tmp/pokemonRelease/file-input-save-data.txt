@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 20 12:52:31 WEST 2019
+0.baseType=DIRECTORY
+0.base=/Users/asma/Desktop/myProjs/PokemonApp/app/build/intermediates/dex/pokemonRelease/mergeDexPokemonRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

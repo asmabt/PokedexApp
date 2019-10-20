@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"app-pokemon-release-unsigned.apk","fullName":"pokemonRelease","baseName":"pokemon-release"},"path":"AndroidManifest.xml","properties":{"packageId":"co.ma.pokedex","split":"","minSdkVersion":"21"}}]

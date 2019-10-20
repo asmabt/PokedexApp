@@ -1,0 +1,4 @@
+#Sun Oct 20 12:52:31 WEST 2019
+base.0=/Users/asma/Desktop/myProjs/PokemonApp/app/build/intermediates/dex/pokemonRelease/mergeDexPokemonRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
